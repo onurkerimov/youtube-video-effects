@@ -1,7 +1,10 @@
-# Youtube Video Effects (Chrome Extension)
+# Youtube Video Effects ([Chrome Extension](https://chrome.google.com/webstore/developer/edit/jhnjkibnbggodedbajpnkdehambhddjk))
 ![](image.jpg) 
 
-Youtube Video Effects provides you realtime video effects on YouTube. 
+Youtube Video Effects provides you realtime video effects on YouTube.
+
+https://chrome.google.com/webstore/developer/edit/jhnjkibnbggodedbajpnkdehambhddjk
+
 ## Features:
 
 ⭐️ Fullscreen Support
