@@ -3,9 +3,13 @@ Youtube Video Effects provides you realtime video effects on YouTube.
 
 Features:
 ⭐️ Fullscreen Support
+
 ⭐️ Control effect parameters with range sliders
+
 ⭐️ Interact some effects with the cursor (Such as Swirl, Bulge/Pinch)
+
 ⭐️ Does not mess with subtitles of annotations
+
 ⭐️ Completely free and with no ads
 
 Available Effects:
