@@ -1,7 +1,8 @@
 # Youtube Video Effects (Chrome Extension)
 Youtube Video Effects provides you realtime video effects on YouTube. 
 
-Features:
+## Features:
+
 ⭐️ Fullscreen Support
 
 ⭐️ Control effect parameters with range sliders
@@ -12,7 +13,8 @@ Features:
 
 ⭐️ Completely free and with no ads
 
-Available Effects:
+
+## Available Effects:
 - Brightness / Contrast
 - Hue / Saturation
 - Vibrance
