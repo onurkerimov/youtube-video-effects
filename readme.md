@@ -1,3 +1,4 @@
+# Youtube Video Effects (Chrome Extension)
 Youtube Video Effects provides you realtime video effects on YouTube. 
 
 Features:
