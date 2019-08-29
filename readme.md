@@ -38,7 +38,7 @@ https://chrome.google.com/webstore/detail/youtube-video-effects/jhnjkibnbggodedb
 - Color Halftone
 
 ------------
-Like Youtube Video Effects? Rate us ⭐️⭐️⭐️⭐️⭐️
+Like Youtube Video Effects? [Rate Us <kbd>⭐️⭐️⭐️⭐️⭐️</kbd>](https://chrome.google.com/webstore/detail/youtube-video-effects/jhnjkibnbggodedbajpnkdehambhddjk)
 ------------
 
 ### Q: How do I use Youtube Video Effects?
