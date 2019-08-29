@@ -41,10 +41,10 @@ https://chrome.google.com/webstore/detail/youtube-video-effects/jhnjkibnbggodedb
 Like Youtube Video Effects? Rate us ⭐️⭐️⭐️⭐️⭐️
 ------------
 
-Q: How do I use Youtube Video Effects?
+### Q: How do I use Youtube Video Effects?
 A: Just install our extension and keep using Youtube as usual. The FX button will automatically appear next to the three dots icon.
 
-Q: How does it work?
+### Q: How does it work?
 A: This extension is possible thanks to a JavaScript library called glfx.js (Created by Evan Wallace, http://evanw.github.io/glfx.js) The library uses WebGL, which is an API for rendering interactive graphics in browser. 
 
 Found a bug? Got a suggestion?
